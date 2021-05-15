@@ -1,5 +1,13 @@
 [
     {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "fonts/MaterialIcons-Extended.otf"
+            }
+        ]
+    },
+    {
         "family": "Noto Naskh Arabic",
         "fonts": [
             {
