@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "main.dart.js": "fe125a535696fae3c95feec07f11979f",
 "assets/NOTICES": "9cae90835854b7e41f2a6914563cdc57",
-"assets/FontManifest.json": "99fca694c42dd5a86c529ffb9a3f2aaa",
+"assets/FontManifest.json": "3e08bafeab92d108ed30437cb75096cc",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/kanjiren%25CA%25B8.mp3": "0451d3332d943b7c9b87699da01487e2",
 "assets/assets/wak%25CA%25B0un.mp3": "e9939937a3b950260ba59176fc5d8081",
@@ -778,8 +778,8 @@ const RESOURCES = {
 "assets/AssetManifest.json": "bac09aeeb8b9dcfebe6594fdc10c304d",
 "manifest.json": "832d6d8ae740102b9944c6e707f86b45",
 "version.json": "ecec5d08513ac348bbfe2b5961bb47ec",
-"index.html": "214b53fe2f73e855f49f52fd140c9dd3",
-"/": "214b53fe2f73e855f49f52fd140c9dd3",
+"index.html": "e2a035e151aa02122b757c2c8f68994a",
+"/": "e2a035e151aa02122b757c2c8f68994a",
 "favicon.png": "4f625a95b0c33335627cf313125cf51a",
 "icons/Icon-192.png": "5f7f669094dec419a2a7218820830165",
 "icons/Icon-512.png": "d421172e17e859a0f9a6c9c4a6410d29"
