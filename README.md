@@ -5,18 +5,11 @@
 <a href="https://izan-majeed.github.io" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/chrome.png" /></a>
 <a href="https://in.linkedin.com/in/izan-majeed-90325518b" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/google-play.png" /></a>
-<a href="https://www.hackerrank.com/izan_majeed" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width=60, height=70/></a>
 <a href="https://twitter.com/izan__majeed" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" /></a>
 <a href="https://pypi.org/user/Izan/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 <a href="https://apps.apple.com/in/app/kaeshir-dictionary/id1563319945" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/apple-app-store.png" /></a>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
-<b>Thought: "Just Do It”</b>
-</p>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ⚫⚪ **About Me**
 
