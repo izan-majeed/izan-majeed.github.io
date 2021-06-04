@@ -1,0 +1,25 @@
+
+label
+{
+	font-size: 2em;
+	color: rgb(100,100,100);
+	font-family: "Courier New";
+	font-weight: bold;
+
+}
+
+h1
+{
+	color: rgb(100,100,100);
+	font-family: "Verdana";
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+}
+
+textarea, input
+{
+	color: "black"
+	font-weight: bold;
+	text-align: center;
+}
