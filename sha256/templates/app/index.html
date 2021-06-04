@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+{% load static %}
+<html>
+
+<head>
+	<title>SHA-256</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'app/css/css.css' %}">
+	<link rel="stylesheet" type="text/css" href="{% static 'app/css/bootstrap.css' %}">
+	
+<body>
+
+	<div class="container">
+		<div class="jumbotron">
+			<h1>SHA-256 Hash calculator</h1>
+			<p></p><br>
+
+			<form method ="GET" >
+			<div class="form-group">
+			    <label for="i">Data: </label>		
+					<input class="form-control" type="search", name= 'i'>
+					<input  type="submit", value="Calculate" class ="btn btn-success btn-lg btn-block">
+					<p></p><br>
+				<label for="o">SHA-256: </label>
+					<textarea class="form-control",rows=16, name="o">{{ x }}</textarea>
+			</form>
+			</div>
+			
+			
+		</div>
+	</div>
+</body>
+</html>
