@@ -14,6 +14,7 @@
                 "asset": "assets/fonts/NotoNaskhArabic-Regular.ttf"
             }
         ]
+<<<<<<< HEAD:kaeshirdictionary/assets/FontManifest.json
     },
     {
         "family": "packages/cupertino_icons/CupertinoIcons",
@@ -177,5 +178,7 @@
                 "asset": "packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf"
             }
         ]
+=======
+>>>>>>> parent of 8a5e854... modified font manifest:assets/FontManifest.json
     }
 ]
