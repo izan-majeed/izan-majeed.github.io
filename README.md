@@ -10,6 +10,7 @@
 <a href="https://apps.apple.com/in/app/kaeshir-dictionary/id1563319945" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/apple-app-store.png" /></a>
 </p>
 
+# <p align="center"> Goto: [Kaeshir Dictionary](izan-majeed.github.io/kaeshirdictionary/) </p>
 
 ⚫⚪ **About Me**
 
@@ -27,27 +28,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izan-majeed&layout=compact&count_private=true&theme=radical)](https://github.com/izan-majeed/github-readme-stats)
 
-<br>
- 
-⚫⚪ **My Tools**
-<p align="center">
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg">
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg">
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/firebase.svg">
-  <img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
-  <br><br>
-  <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> 
-  <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
-  <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg">
-  <img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> 
-  <hr>
-</p>
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/
 </p>
  
-
-
 
 -----
