@@ -10,7 +10,7 @@
 <a href="https://apps.apple.com/in/app/kaeshir-dictionary/id1563319945" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/apple-app-store.png" /></a>
 </p>
 
-# <p align="center"> Goto: [Kaeshir Dictionary](izan-majeed.github.io/kaeshirdictionary/) </p>
+# Goto: [Kaeshir Dictionary](izan-majeed.github.io/kaeshirdictionary/)
 
 ⚫⚪ **About Me**
 
