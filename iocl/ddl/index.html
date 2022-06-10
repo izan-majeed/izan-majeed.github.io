@@ -3,19 +3,26 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deffered Deep Link</title>
+    <title>Deferred Deep Link</title>
   </head>
   <body>
     <script>
-        alert(navigator.platform);
-<!--      if (window.navigator.platform == "")-->
-<!--        window.onload = function () {-->
-<!--          location.href = "https://www.google.com";-->
-<!--        };-->
-<!--      else -->
-<!--        window.onload = function () {-->
-<!--          location.href = "https://www.google.com";-->
-<!--        };-->
+
+      currentPlatform = window.navigator.platform;
+      macOS = ['Macintosh', 'MacIntel', 'MacPPC', 'Mac68K'];
+      iOS = ['iPhone', 'iPad', 'iPod'];
+
+      playStoreUrl = 'https://play.google.com/store/apps/details?id=cx.indianoil.in';
+      appStoreUrl = 'https://apps.apple.com/in/app/indianoil-one/id1444511410';
+
+     if (macOS.includes(currentPlatform) || iOS.includes(currentPlatform))
+       window.onload = function () {
+         location.href = appStoreUrl;
+       };
+     else
+       window.onload = function () {
+         location.href = playStoreUrl;
+       };
       
     </script>
   </body>
