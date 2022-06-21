@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Izan Majeed </h1>
-<h3 align="center"> The Kaeshur Developer </h3>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Izan Majeed </h1>
+<h3 align="center"> A Kaeshur Developer </h3>
 
 <p align="center">
 <a href="https://izan-majeed.github.io" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/chrome.png" /></a>
@@ -12,11 +12,11 @@
 
  
 
-⚪ President of [Pyrates](https://play.google.com/store/apps/details?id=com.izan.pyrates)<br>
-⚫ Associate Projects at [Cognizant](https://www.cognizant.com/)<br>
-⚪ Authot of [The Winds of Python](https://issuu.com/izan-majeed/docs/the_winds_of_python)<br>
-⚫ Developer of [Kaeshir Dictionary](https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary)<br>
-⚡ Fun fact: I was imprisoned in NIT Srinagar for 4 years (CSE 2017)<br>
+⚡ President of [Pyrates](https://play.google.com/store/apps/details?id=com.izan.pyrates)<br>
+⚡ Associate Projects at [Cognizant](https://www.cognizant.com/)<br>
+⚡ Authot of [The Winds of Python](https://issuu.com/izan-majeed/docs/the_winds_of_python)<br>
+⚡ Developer of [Kaeshir Dictionary](https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary)<br>
+
 
 <br><br>
 
