@@ -1,9 +1,10 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Izan Majeed </h1>
+<p align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></p>
+<h1 align="center"> I'm Izan Majeed </h1>
 <h3 align="center"> A Kaeshur Developer </h3>
 
 <p align="center">
 <a href="https://izan-majeed.github.io" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/chrome.png" /></a>
-<a href="https://in.linkedin.com/in/izan-majeed-90325518b" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
+<a href="https://www.linkedin.com/in/izan-majeed-886016233" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/google-play.png" /></a>
 <a href="https://www.hackerrank.com/izan_majeed" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width=60 height=70 /></a>
 <a href="https://twitter.com/izan__majeed" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" /></a>
