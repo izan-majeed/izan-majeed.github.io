@@ -11,22 +11,16 @@
 <a href="https://pypi.org/user/Izan/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/python.png" /></a>
 </p>
 
- 
 
 ⚡ President of [Pyrates](https://play.google.com/store/apps/details?id=com.izan.pyrates)<br>
 ⚡ Associate Projects at [Cognizant](https://www.cognizant.com/)<br>
 ⚡ Authot of [The Winds of Python](https://issuu.com/izan-majeed/docs/the_winds_of_python)<br>
 ⚡ Developer of [Kaeshir Dictionary](https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary)<br>
-
-
-<br><br>
+<br />
 
 [![Izan's GitHub stats](https://github-readme-stats.vercel.app/api?username=izan-majeed&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/izan-majeed/github-readme-stats)
-
-
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izan-majeed&layout=compact&count_private=true&theme=radical)](https://github.com/izan-majeed/github-readme-stats)
-
-<br>
  
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
