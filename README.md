@@ -12,10 +12,10 @@
 </p>
 
 
-⚡ President of [Pyrates](https://play.google.com/store/apps/details?id=com.izan.pyrates)<br>
 ⚡ Associate Projects at [Cognizant](https://www.cognizant.com/)<br>
 ⚡ Author of [The Winds of Python](https://issuu.com/izan-majeed/docs/the_winds_of_python)<br>
 ⚡ Developer of [Kaeshir Dictionary](https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary)<br>
+⚡ President of [Pyrates](https://play.google.com/store/apps/details?id=com.izan.pyrates)<br>
 <br />
 
 [![Izan's GitHub stats](https://github-readme-stats.vercel.app/api?username=izan-majeed&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/izan-majeed/github-readme-stats)
