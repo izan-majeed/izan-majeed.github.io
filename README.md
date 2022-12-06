@@ -3,7 +3,6 @@
 <h3 align="center"> A Kaeshur Developer </h3>
 
 <p align="center">
-<a href="https://izan-majeed.github.io" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/chrome.png" /></a>
 <a href="https://www.linkedin.com/in/izan-majeed-886016233" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" /></a>
 <a href="https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/26e07f/google-play.png" /></a>
 <a href="https://www.hackerrank.com/izan_majeed" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width=60 height=70 /></a>
