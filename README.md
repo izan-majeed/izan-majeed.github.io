@@ -1,4 +1,4 @@
-<body bgcolor='black'>
+
 <p align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /></p>
 <h1 align="center"> I'm Izan Majeed </h1>
 <h3 align="center"> A Kaeshur Developer </h3>
@@ -25,4 +25,3 @@
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 </p>
-  </body>
