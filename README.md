@@ -20,6 +20,7 @@
 
 [![Izan's GitHub stats](https://github-readme-stats.vercel.app/api?username=izan-majeed&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)](https://github.com/izan-majeed/github-readme-stats)
 <br /><br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izan-majeed&layout=compact&count_private=true&theme=radical)](https://github.com/izan-majeed/github-readme-stats)
  
 <p align="center">
