@@ -1,5 +1,5 @@
 <p align="center"><img width="128" alt="Flag of Kashmir" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Azad_Kashmir.svg"></p>
-<h1 align="center"> Hi, I'm Izan Majeed </h1>
+<h1 align="center"> I'm Izan Majeed </h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - A software developer from Kashmir 🍂
