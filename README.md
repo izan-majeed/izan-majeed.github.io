@@ -3,6 +3,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - A software developer from Kashmir 🍂
+- CS graduate from [NIT Srinagar](https://nitsri.ac.in/)<br>
 - Associate Projects at [Cognizant](https://www.cognizant.com/)<br>
 - Author of [The Winds of Python](https://issuu.com/izan-majeed/docs/the_winds_of_python)<br>
 - Developer of [Kaeshir Dictionary](https://play.google.com/store/apps/details?id=com.izanmajeed.dictionary)<br>
