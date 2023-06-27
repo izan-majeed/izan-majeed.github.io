@@ -1,4 +1,9 @@
-<p align="center"><img width="128" alt="Flag of Kashmir" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Flag_of_Azad_Kashmir.svg"></p>
+<div style="display: flex; justify-content: center;">
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
+    <img alt="Pikachu" src="https://lh3.googleusercontent.com/pw/AJFCJaWElngmkkmyTvdomSuxVViD_JE9PvAlqiycRnHjel3CXf499XYLrI_GvkK56hBsU5hSsdz6E4eOKk5iqjWZLwv9AyLk_Kquo65nLrM8dTODkCQbZQAp=w2400" style="width: 100%; height: 100%; object-fit: cover;">
+  </div>
+</div>
+
 <h1 align="center"> I'm Izan Majeed </h1>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
