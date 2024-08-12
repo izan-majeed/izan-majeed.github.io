@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deeplink</title>
+</head>
+<body>
+    <script>
+        var isAndroid = /Android/i.test(navigator.userAgent);
+        var isIOS = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+        if (isAndroid) {
+            window.location.href = "https://play.google.com/store/apps/details?id=cx.indianoil.in";
+        } else if (isIOS) {
+            window.location.href = "https://apps.apple.com/in/app/indianoil-one/id1444511410";
+        }
+    </script>
+</body>
+</html>
