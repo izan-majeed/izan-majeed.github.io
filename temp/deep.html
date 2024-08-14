@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open IndianOil ONE</title>
+</head>
+<body>
+    <script type="text/javascript">
+        // Custom URL scheme for IndianOil ONE app
+        var indianoilUrl = "indianoilone://";
+        var androidStoreUrl = "https://play.google.com/store/apps/details?id=cx.indianoil.in";
+        var iosStoreUrl = "https://apps.apple.com/in/app/indianoil-one/id1444511410";
+ 
+        // Detect the user's device
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+ 
+        // Attempt to open the IndianOil ONE app
+        window.location = indianoilUrl;
+ 
+        // Fallback to App Store or Play Store if the app is not installed
+        setTimeout(function() {
+            if (/android/i.test(userAgent)) {
+                window.location = androidStoreUrl;
+            } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                window.location = iosStoreUrl;
+            }
+        }, 25);
+    </script>
+</body>
+</html>
