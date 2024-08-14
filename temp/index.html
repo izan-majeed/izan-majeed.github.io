@@ -6,7 +6,6 @@
     <title>Query Parameter Reader</title>
 </head>
 <body>
-    <h1>Query Parameter Reader</h1>
     <p id="output"></p>
 
     <script>
@@ -15,7 +14,7 @@
 
         const outputElement = document.getElementById('output');
         if (dataParam) {
-            outputElement.textContent = `The value of 'data' is: ${dataParam}`;
+            outputElement.textContent = dataParam;
         } else {
             outputElement.textContent = "No 'data' parameter found in the URL.";
         }
