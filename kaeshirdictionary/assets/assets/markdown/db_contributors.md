@@ -3,7 +3,7 @@
 * Izan Majeed, Student, NIT Srinagar
 * Murtaza Nazir, Student, NIT Srinagar
 * Peerzada Iflaq, Admin, Kashmiri Wikipedia
-* Asiya Hassan, Kashmiri Dictionary, Instagram
+* Asiya Hassan, [Kashmiri Dictionary](https://kashmiridictionary.org/)
 
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 
