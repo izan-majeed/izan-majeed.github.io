@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -18,6 +18,31 @@
         } else {
             outputElement.textContent = "No 'data' parameter found in the URL.";
         }
+    </script>
+</body>
+</html>
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Open IndianOil ONE</title>
+</head>
+<body>
+    <p>If you are not redirected, <a id="store-link" href="#">click here</a>.</p>
+    <script type="text/javascript">
+        var androidStoreUrl = "https://play.google.com/store/apps/details?id=cx.indianoil.in";
+        var iosStoreUrl = "https://apps.apple.com/in/app/indianoil-one/id1444511410";
+        var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+        var storeUrl = androidStoreUrl;
+
+        if (/iPad|iPhone|iPod/i.test(userAgent)) {
+            storeUrl = iosStoreUrl;
+        }
+
+        document.getElementById("store-link").href = storeUrl;
+        window.location.replace(storeUrl);
     </script>
 </body>
 </html>
