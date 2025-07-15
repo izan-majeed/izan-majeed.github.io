@@ -55,9 +55,6 @@
             <h1 class="font-amiri text-5xl md:text-6xl font-bold gold-text drop-shadow-lg">Download&nbsp;Roll&nbsp;Slips
             </h1>
             <div class="header-decoration"></div>
-            <p class="text-lg md:text-xl font-light text-gray-200">
-                <span id="file-count" class="font-bold">0</span>&nbsp;Roll&nbsp;Slips Found
-            </p>
         </header>
 
         <section class="p-6 md:p-8 space-y-6">
@@ -77,27 +74,23 @@
     </main>
 
     <script>
-        const basePath = './assets/roll_slips/';   // where PDFs live
-        const manifestPath = './assets/name_index.json'; // JSON file listing the PDFs
-        const fileNames = [];                       // filled at runtime
+        const basePath = './assets/roll_slips/';
+        const manifestPath = './assets/name_index.json';
+        const fileNames = [];
 
-        /* Load the manifest (simple JSON array) */
         async function fetchFileNames() {
             const res = await fetch(manifestPath);
             if (!res.ok) throw new Error('Could not load roll‑slip manifest');
-            return await res.json();                     // ["grade_7.pdf", ...]
+            return await res.json();
         }
 
         /* Render the cards */
         function renderGrid() {
             const grid = document.getElementById('roll-slip-grid');
-            const fileCountElem = document.getElementById('file-count');
             const searchTerm = document.getElementById('search-input').value.trim().toLowerCase();
 
             grid.innerHTML = '';
-
             const filtered = fileNames.filter(name => name.toLowerCase().includes(searchTerm));
-            fileCountElem.textContent = filtered.length;
 
             if (filtered.length === 0) {
                 grid.innerHTML =
